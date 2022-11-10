@@ -1,4 +1,5 @@
 # -SGSSI-Minero-Cliente-Servidor-Paralelizado
-Trabajo optativo para la asignatura SGSSI. En términos simples, se trata del laboratorio 5 con un modelo cliente-servidor, estando los clientes paralelizados para aprovechar los recursos de sus máquinas.
+Minero distribuido modelo cliente-servidor, estando los clientes paralelizados para aprovechar los recursos de sus máquinas.
+<br>Pensado para minar bloques de la asignatura SGSSI.
 
 Para ver cómo usar el programa, mirar el README en el directorio "/doc"
